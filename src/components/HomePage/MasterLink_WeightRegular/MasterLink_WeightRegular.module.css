@@ -1,0 +1,59 @@
+.lineRoundedPassword.lineRoundedPassword {
+  width: 20px;
+  height: 20px;
+}
+.password.password {
+  left: 3.75px;
+  top: 1.3663px;
+  width: 12.5px;
+  height: 16.6667px;
+}
+.password {
+  left: 3.75px;
+  top: 1.3663px;
+  width: 12.5px;
+  height: 16.6667px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.lineRoundedChevronDown.lineRoundedChevronDown {
+  width: 20px;
+  height: 20px;
+}
+.chevron.chevron {
+  left: 4.1667px;
+  top: 7.0833px;
+  width: 11.6667px;
+  height: 5.8333px;
+}
+.chevron {
+  left: 4.1667px;
+  top: 7.0833px;
+  width: 11.6667px;
+  height: 5.8333px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  width: min-content;
+  height: min-content;
+  align-items: center;
+  gap: 6px;
+}
+.linkItem {
+  color: #211f54;
+  font-size: 18px;
+  line-height: 20px;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

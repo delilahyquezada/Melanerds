@@ -1,0 +1,358 @@
+.root {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 1840px;
+  height: 881px;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.frame24 {
+  position: absolute;
+  left: 181px;
+  top: 67px;
+  width: 431px;
+  height: 761px;
+  align-items: flex-start;
+}
+.rectangle13 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 431px;
+  height: 761px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 57px;
+  background-color: #fff;
+}
+.films {
+  color: #fff;
+  font-size: 40px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6082px;
+  top: 807px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame25 {
+  position: absolute;
+  left: 734px;
+  top: 67px;
+  width: 431px;
+  height: 761px;
+  align-items: flex-start;
+}
+.rectangle14 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 431px;
+  height: 761px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 57px;
+  background-color: #fff;
+}
+.gaming {
+  color: #000;
+  font-size: 40px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 5982px;
+  top: 807px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame26 {
+  position: absolute;
+  left: 1287px;
+  top: 67px;
+  width: 431px;
+  height: 761px;
+  align-items: flex-start;
+}
+.rectangle15 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 431px;
+  height: 761px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 57px;
+  background-color: #fff;
+}
+.cosplay {
+  color: #000;
+  font-size: 40px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 5965px;
+  top: 807px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame27 {
+  position: absolute;
+  left: 1840px;
+  top: 67px;
+  width: 431px;
+  height: 761px;
+  align-items: flex-start;
+}
+.rectangle16 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 431px;
+  height: 761px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 57px;
+  background-color: #d9d9d9;
+}
+.frame28 {
+  position: absolute;
+  left: 2393px;
+  top: 67px;
+  width: 431px;
+  height: 761px;
+  align-items: flex-start;
+}
+.rectangle17 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 431px;
+  height: 761px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 57px;
+  background-color: #d9d9d9;
+}
+.frame29 {
+  position: absolute;
+  left: 2946px;
+  top: 67px;
+  width: 431px;
+  height: 761px;
+  align-items: flex-start;
+}
+.rectangle18 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 431px;
+  height: 761px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 57px;
+  background-color: #d9d9d9;
+}
+.frame30 {
+  position: absolute;
+  left: 3499px;
+  top: 67px;
+  width: 431px;
+  height: 761px;
+  align-items: flex-start;
+}
+.rectangle19 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 431px;
+  height: 761px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 57px;
+  background-color: #d9d9d9;
+}
+.frame31 {
+  position: absolute;
+  left: 4052px;
+  top: 67px;
+  width: 431px;
+  height: 761px;
+  align-items: flex-start;
+}
+.rectangle20 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 431px;
+  height: 761px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 57px;
+  background-color: #d9d9d9;
+}
+.frame32 {
+  position: absolute;
+  left: 4605px;
+  top: 67px;
+  width: 431px;
+  height: 761px;
+  align-items: flex-start;
+}
+.rectangle21 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 431px;
+  height: 761px;
+  outline: solid 2px #000;
+  outline-offset: -2px;
+  border-radius: 57px;
+  background-color: #d9d9d9;
+}
+.films2 {
+  color: #000;
+  font-size: 40px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 345px;
+  top: 711px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.gaming2 {
+  color: #000;
+  font-size: 40px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 868px;
+  top: 711px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.cosplay2 {
+  color: #000;
+  font-size: 40px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1421px;
+  top: 711px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.anime {
+  color: #000;
+  font-size: 40px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1991px;
+  top: 711px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.asianDramas {
+  color: #000;
+  font-size: 40px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 2468px;
+  top: 711px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.starWars {
+  color: #000;
+  font-size: 40px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 3065px;
+  top: 711px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tableTop {
+  color: #000;
+  font-size: 40px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 3616px;
+  top: 711px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tech {
+  color: #000;
+  font-size: 40px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4219px;
+  top: 711px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.animation {
+  color: #000;
+  font-size: 40px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4738px;
+  top: 711px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.icOutlineArrowRight {
+  position: absolute;
+  left: 1629px;
+  top: 298px;
+  width: 300px;
+  height: 300px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icOutlineArrowRight2 {
+  position: absolute;
+  left: -36px;
+  top: -2px;
+  width: 300px;
+  height: 300px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
